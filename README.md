@@ -9,7 +9,7 @@ You don't have to use a START_TAG or STOP_TAG (like how PyTorch does in its NER 
 
 If you have any troubleshooting using this operator, DO let me know. Thank you!
 
-使用该算子过程中，如遇到任何为题，请提issue反馈给我。栓Q~
+使用该算子过程中，如遇到任何问题，请提issue反馈给我。栓Q~
 
 ## References
 
