@@ -7,6 +7,10 @@ You don't have to use a START_TAG or STOP_TAG (like how PyTorch does in its NER 
 
 该算子不同于PyTorch官方提供的NER教学文档里面那样，需要用到START_TAG和STOP_TAG，也因此该算子可以更方便地集成到各种深度学习模型中。
 
+If you have any troubleshooting using this operator, DO let me know. Thank you!
+
+使用该算子过程中，如遇到任何为题，请提issue反馈给我。栓Q~
+
 ## References
 
 * PyTorch LSTM-CRF for NER (Official Demo)
