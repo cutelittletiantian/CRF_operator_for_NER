@@ -11,6 +11,10 @@ If you have any troubleshooting using this operator, DO let me know. Thank you!
 
 使用该算子过程中，如遇到任何问题，请提issue反馈给我。栓Q~
 
+## Update Logs
+
+* 2022-11-22 Batch supported (beta)
+
 ## References
 
 * PyTorch LSTM-CRF for NER (Official Demo)
